@@ -7,6 +7,8 @@ It is based on  [linux_network_activity_tracker](https://github.com/FastVPSEesti
 
 Install
 -------
+[![Build Status](https://travis-ci.org/FastVPSEestiOu/linux_network_smtp_tracker.svg?branch=master)](https://travis-ci.org/FastVPSEestiOu/linux_network_smtp_tracker)
+
 ```
 export GOPATH=$(pwd)
 go get github.com/FastVPSEestiOu/linux_network_smtp_tracker
