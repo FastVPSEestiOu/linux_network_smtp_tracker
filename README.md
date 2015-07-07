@@ -37,6 +37,18 @@ Enable json output
 
 Set max count of outgoing smtp connections. If it greater limit - we saw container in output
 
+Exapmle output
+--------------
+```
+# linux_network_smtp_tracker -m 5
+We found  201  smtp connetions
+Found they process, please be patient
+Ctid: 78786 Smtp Connections: 47
+
+# linux_network_smtp_tracker -m 5 -j
+{"78786":30}
+```
+
 Description
 -----------
 
