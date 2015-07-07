@@ -1,0 +1,2 @@
+nguage: go
+install: go get github.com/FastVPSEestiOu/linux_network_smtp_tracker
